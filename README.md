@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowEGGx
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Sciences for Grade 12
-- 💞️ I’m looking to collaborate on nothing lol
+- 👀 I’m interested in gaming, coding and anime
+- 🌱 I’m currently a 1st year in BTech CSE with specialisation in AI and ML
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me Discord only
 
 <!---
